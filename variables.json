@@ -1,0 +1,17 @@
+{
+    "loc_url": [400, 60], 
+    "loc_scroll": [870, 450], 
+    "loc_next_button1": [40, 380], 
+    "loc_next_button2": [450, 400], 
+    "loc_x": [840, 140], 
+    "loc_login_button": [200, 450], 
+    "loc_zoom": [500, 400], 
+    
+    "loc_phonenum": [170, 280], 
+    "loc_img": [16, 324], 
+    "loc_text": [120, 450], 
+    "loc_button": [100, 500], 
+    "loc_msg": [266, 216], 
+    "loc_init_button": [720, 30],
+    "loc_error_size": [350, 37]
+}
